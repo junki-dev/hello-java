@@ -1,4 +1,4 @@
-## DAY 1
+## Section 1
 
 - gradle 또는 maven 은 의존성을 관리한다.
 - spring boot library
